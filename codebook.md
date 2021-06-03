@@ -1,6 +1,6 @@
 This codebook lists all the metadata and measurement variables used in the project.
 
-### Metadata Variables
+## Metadata Variables
 
 The following columns contained metadata about the subjects and activities:
 
@@ -9,7 +9,7 @@ The following columns contained metadata about the subjects and activities:
 
 The first column contained the IDs of the subjects involved. The second column contained the names of the activities performed by different subjects.
 
-### Measurement Variables
+## Measurement Variables
 
 The measurement variables recorded the means and standard deviations of observations which record measurement data. In order of appearance in the dataset, these are:
 
